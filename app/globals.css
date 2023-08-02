@@ -5,7 +5,8 @@
   margin: 0;
   box-sizing: border-box;
   font-family: caudex;
-  font-size: large
+  font-size: large;
+  overflow: hidden;
 }
 
 @tailwind base;
@@ -21,7 +22,7 @@ td {
 }
 
 td {
-  padding: 1.5% 0% 0% 0%
+  padding: 1.7% 1% 0% 0%
 }
 
 th {
