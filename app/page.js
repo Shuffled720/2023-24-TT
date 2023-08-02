@@ -16,44 +16,44 @@ export default function Home() {
         <tbody>
           <tr>
             <td class='days-col'>Monday</td>
-            <td class='lecture'>L: EE 309(Vijay)</td>
-            <td class='lecture'>L: EE 301N(DOSA)</td>
-            <td class='lecture'>L: EE 303</td>
-            <td class='lecture'>L: EE 305</td>
+            <td class='lecture'><span class='font-bold'>L:EE 309</span>(Vijay)</td>
+            <td class='lecture'><span class='font-bold'>L:EE 301N</span>(DOSA)</td>
+            <td class='lecture'><span class='font-bold'>L:EE 303</span></td>
+            <td class='lecture'><span class='font-bold'>L:EE 305</span></td>
           </tr>
           <tr>
             <td class='days-col'>Tuesday</td>
-            <td class='lecture'>L: EE 307(Sumit)</td>
+            <td class='lecture'><span class='font-bold'>L:EE 307</span>(Sumit)</td>
             <td></td>
-            <td class='lecture'>L: EE 311(water-bottle)</td>
-            <td class='lecture'>L: EE 305</td>
+            <td class='lecture'><span class='font-bold'>L:EE 311</span>(water-bottle)</td>
+            <td class='lecture'><span class='font-bold'>L:EE 305</span></td>
           </tr>
           <tr>
             <td class='days-col'>Wednesday</td>
-            <td class='lecture'>L: EE 309(Vijay)</td>
-            <td class='lecture'>L: EE 301N(DOSA)</td>
-            <td class='lecture'>L: EE 303</td>
+            <td class='lecture'><span class='font-bold'>L:EE 309</span>(Vijay)</td>
+            <td class='lecture'><span class='font-bold'>L:EE 301N</span>(DOSA)</td>
+            <td class='lecture'><span class='font-bold'>L:EE 303</span></td>
             <td></td>
           </tr>
           <tr>
             <td class='days-col'>Thursday</td>
-            <td class='lecture'>L: EE 307(Sumit)</td>
-            <td class="tut">T: EE 311(water-bottle)</td>
-            <td class="tut">T: EE 303</td>
-            <td class="tut">T: EE 305</td>
+            <td class='lecture'><span class='font-bold'>L:EE 307</span>(Sumit)</td>
+            <td class="tut"><span class='font-bold'>T:EE 311</span>(water-bottle)</td>
+            <td class="tut"><span class='font-bold'>T:EE 303</span></td>
+            <td class="tut"><span class='font-bold'>T:EE 305</span></td>
           </tr>
           <tr>
             <td class='days-col'>Friday</td>
-            <td class="tut">T: EE 309(Vijay)</td>
-            <td class="tut">T: EE 301N(DOSA)</td>
-            <td class='lecture'>L: EE 311(water-bottle)</td>
-            <td class="tut">T: EE 307(Sumit)</td>
+            <td class="tut"><span class='font-bold'>T:EE 309</span>(Vijay)</td>
+            <td class="tut"><span class='font-bold'>T:EE 301N</span>(DOSA)</td>
+            <td class='lecture'><span class='font-bold'>L:EE 311</span>(water-bottle)</td>
+            <td class="tut"><span class='font-bold'>T:EE 307</span>(Sumit)</td>
           </tr>
         </tbody>
       </table>
       <div class='p-5'>
-        <h1>Thursday:E1 Batch: P: EE 351N</h1>
-        <h1>Friday:E2 Batch: P: EE 351N</h1>
+        <h1>Thursday:E1 Batch: <span class='font-bold'>EEP: 351N</span></h1>
+        <h1>Friday:E2 Batch: <span class='font-bold'>EEP: 351N</span></h1>
       </div>
     </>
   )
