@@ -44,7 +44,7 @@ export default function Home() {
           </tr>
           <tr>
             <td class='days-col'>Friday</td>
-            <td class="tut"><span class='font-bold'>T:EE 309</span>(Vijay)</td>
+            <td class="tut"><span class='font-bold'>T:EE 309<span class='exception'>(12:30)</span></span>(Vijay)</td>
             <td class="tut"><span class='font-bold'>T:EE 301N</span>(DOSA)</td>
             <td class='lecture'><span class='font-bold'>L:EE 311</span>(water-bottle)</td>
             <td class="tut"><span class='font-bold'>T:EE 307</span>(Sumit)</td>

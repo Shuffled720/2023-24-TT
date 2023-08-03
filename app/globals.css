@@ -5,7 +5,7 @@
   margin: 0;
   box-sizing: border-box;
   font-family: caudex;
-  font-size: 0.9rem;
+  font-size: 0.87rem;
   overflow: hidden;
 }
 
@@ -39,4 +39,9 @@ th {
 
 .tut {
   background-color: #60ffbd;
+}
+
+.exception {
+  color: red;
+  font-weight: 900;
 }
