@@ -32,14 +32,14 @@ export default function Home() {
     ],
     "Tuesday": [
       {
-        "title": "L:EE 307",
-        "type": "Lecture",
-        "teacher": "(Sumit)"
-      },
-      {
         "title": "",
         "type": "",
         "teacher": ""
+      },
+      {
+        "title": "L:EE 307",
+        "type": "Lecture",
+        "teacher": "(Sumit)"
       },
       {
         "title": "L:EE 311",
