@@ -101,7 +101,7 @@ export default function Home() {
     ],
     "Friday": [
       {
-        "title": "T:EE 309",
+        "title": "(12:30)T:EE 309",
         "type": "Tutorial",
         "teacher": "(Vijay)"
       },
