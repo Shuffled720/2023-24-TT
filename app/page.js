@@ -20,12 +20,12 @@ export default function Home() {
         "teacher": "(DOSA)"
       },
       {
-        "title": "L:EE 303",
+        "title": "L:EE 303(Probability)",
         "type": "Lecture",
         "teacher": ""
       },
       {
-        "title": "L:EE 305",
+        "title": "L:EE 305(Gosh)",
         "type": "Lecture",
         "teacher": ""
       }
@@ -47,7 +47,7 @@ export default function Home() {
         "teacher": "(water-bottle)"
       },
       {
-        "title": "L:EE 305",
+        "title": "L:EE 305(Gosh)",
         "type": "Lecture",
         "teacher": ""
       }
@@ -67,7 +67,7 @@ export default function Home() {
 
         },
         {
-          "title": "L:EE 303",
+          "title": "L:EE 303(Probability)",
           "type": "Lecture",
           "teacher": ""
         },
@@ -89,12 +89,12 @@ export default function Home() {
         "teacher": "(water-bottle)"
       },
       {
-        "title": "T:EE 303",
+        "title": "T:EE 303(Probability)",
         "type": "Tutorial",
         "teacher": ""
       },
       {
-        "title": "T:EE 305",
+        "title": "T:EE 305(Gosh)",
         "type": "Tutorial",
         "teacher": ""
       }
@@ -124,27 +124,27 @@ export default function Home() {
   }
   const msett = [
     {
-      "name": "EE 307",
+      "name": "EE 307 (Sumit Chotu)",
       "date": "Saturday, 16-09-2022"
     },
     {
-      "name": "EE 301N",
+      "name": "EE 301N(DOSA)",
       "date": "Monday, 18-09-2022"
     },
     {
-      "name": "EE 311",
+      "name": "EE 311(water-bottle)",
       "date": "Wednessday, 20-09-2022"
     },
     {
-      "name": "EE 305 + CS 307",
+      "name": "EE 305 + CS 307 (Gosh)",
       "date": "Thursday, 21-09-2022"
     },
     {
-      "name": "EE 309",
+      "name": "EE 309(Vijay)",
       "date": "Monday, 25-09-2022"
     },
     {
-      "name": "EE 303",
+      "name": "EE 303(Probability)",
       "date": "Tuesday, 26-09-2022"
     },
 
