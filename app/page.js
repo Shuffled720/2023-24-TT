@@ -215,6 +215,9 @@ export default function Home() {
         </tbody>
       </table>
 
+      <embed src="MENU.pdf" className="pdf" />
+
+
 
       {/* <table class="table-fixed w-full text-center ">
         <thead>
