@@ -1,0 +1,140 @@
+{
+    "tt": {
+        "Monday": [
+            {
+                "title": "L:EE 309",
+                "type": "Lecture",
+                "teacher": "(Vijay)"
+            },
+            {
+                "title": "L:EE 301N",
+                "type": "Lecture",
+                "teacher": "(DOSA)"
+            },
+            {
+                "title": "L:EE 303(Probability)",
+                "type": "Lecture",
+                "teacher": ""
+            },
+            {
+                "title": "L:EE 305(Gosh)",
+                "type": "Lecture",
+                "teacher": ""
+            }
+        ],
+        "Tuesday": [
+            {
+                "title": "",
+                "type": "",
+                "teacher": ""
+            },
+            {
+                "title": "L:EE 307",
+                "type": "Lecture",
+                "teacher": "(Sumit)"
+            },
+            {
+                "title": "L:EE 311",
+                "type": "Lecture",
+                "teacher": "(water-bottle)"
+            },
+            {
+                "title": "L:EE 305(Gosh)",
+                "type": "Lecture",
+                "teacher": ""
+            }
+        ],
+        "Wednesday": [
+            {
+                "title": "L:EE 309",
+                "type": "Lecture",
+                "teacher": "(Vijay)"
+            },
+            {
+                "title": "L:EE 301N",
+                "type": "Lecture",
+                "teacher": "(DOSA)"
+            },
+            {
+                "title": "L:EE 303(Probability)",
+                "type": "Lecture",
+                "teacher": ""
+            },
+            {
+                "title": "",
+                "type": "",
+                "teacher": ""
+            }
+        ],
+        "Thursday": [
+            {
+                "title": "L:EE 307",
+                "type": "Lecture",
+                "teacher": "(Sumit)"
+            },
+            {
+                "title": "T:EE 311",
+                "type": "Tutorial",
+                "teacher": "(water-bottle)"
+            },
+            {
+                "title": "T:EE 303(Probability)",
+                "type": "Tutorial",
+                "teacher": ""
+            },
+            {
+                "title": "T:EE 305(Gosh)",
+                "type": "Tutorial",
+                "teacher": ""
+            }
+        ],
+        "Friday": [
+            {
+                "title": "(12:30)T:EE 309",
+                "type": "Tutorial",
+                "teacher": "(Vijay)"
+            },
+            {
+                "title": "T:EE 301N",
+                "type": "Tutorial",
+                "teacher": "(DOSA)"
+            },
+            {
+                "title": "L:EE 311",
+                "type": "Lecture",
+                "teacher": "(water-bottle)"
+            },
+            {
+                "title": "T:EE 307",
+                "type": "Tutorial",
+                "teacher": "(Sumit)"
+            }
+        ]
+    },
+    "msett": [
+        {
+            "name": "EE 307 (Sumit Chotu)",
+            "date": "Saturday, 16-09-2022"
+        },
+        {
+            "name": "EE 301N(DOSA)",
+            "date": "Monday, 18-09-2022"
+        },
+        {
+            "name": "EE 311(water-bottle)",
+            "date": "Wednessday, 20-09-2022"
+        },
+        {
+            "name": "EE 305 + CS 307 (Gosh)",
+            "date": "Thursday, 21-09-2022"
+        },
+        {
+            "name": "EE 309(Vijay)",
+            "date": "Monday, 25-09-2022"
+        },
+        {
+            "name": "EE 303(Probability)",
+            "date": "Tuesday, 26-09-2022"
+        }
+    ]
+}
