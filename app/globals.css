@@ -26,7 +26,7 @@ td {
 }
 
 th {
-  background-color: rgb(255, 162, 76);
+  background-color: rgb(255, 216, 180);
 }
 
 .days-col {
@@ -34,11 +34,11 @@ th {
 }
 
 .lecture {
-  background-color: #ffcfcf;
+  background-color: #fce0e0;
 }
 
 .tut {
-  background-color: #60ffbd;
+  background-color: #c9ffe8;
 }
 
 .exception {

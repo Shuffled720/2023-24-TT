@@ -4,11 +4,12 @@ import data from "../helper/data"
 export default function Home() {
 
   return (
-    <div className="h-screen bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500">
+    // <div className="h-screen bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500">
+    <div className="h-screen bg-red-50">
       <h1 className="text-center text-3xl">Electrical TimaTable</h1>
-      <table class="table-fixed w-full text-center ">
+      <table className="table-fixed w-full text-center ">
         <thead>
-          <tr>
+          <tr key="">
             <th>DAYS</th>
             <th>8:30-9:25</th>
             <th>9:30-10:25</th>
@@ -19,11 +20,11 @@ export default function Home() {
         <tbody>
           {Object.keys(data.tt).map((day, i) => (
             <>
-              <tr>
-                <td class='days-col'>{day}</td>
-                {data.tt[day].map((lec, i) => (
+              <tr key={i}>
+                <td className='days-col'>{day}</td>
+                {data.tt[day].map((lec, j) => (
                   <>
-                    <td class={lec.type == "Lecture" ? "lecture" : "tut"} ><span class='font-bold'>{lec.title}</span><span>{lec.teacher}</span></td>
+                    <td className={lec.type == "Lecture" ? "lecture" : "tut"} ><span className='font-bold'>{lec.title}</span><span>{lec.teacher}</span></td>
                   </>
                 ))}
               </tr>
@@ -32,16 +33,16 @@ export default function Home() {
 
         </tbody>
       </table>
-      <div class='p-5'>
-        <h1>Thursday:E1 Batch: <span class='font-bold'>EEP: 351N</span></h1>
-        <h1>Friday:E2 Batch: <span class='font-bold'>EEP: 351N</span></h1>
+      <div className='p-5'>
+        <h1>Thursday:E1 Batch: <span className='font-bold'>EEP: 351N</span></h1>
+        <h1>Friday:E2 Batch: <span className='font-bold'>EEP: 351N</span></h1>
       </div>
       <br />
       <h1>Exam Time table MSE (10:00 to 12:00)</h1>
       <br />
-      <table class="table-fixed w-96 text-center ">
+      <table className="table-fixed w-96 text-center ">
         <thead>
-          <tr>
+          <tr key="">
             <th>Day & Date</th>
             <th>Course</th>
 
@@ -50,7 +51,7 @@ export default function Home() {
         <tbody>
           {data.msett.map((exam, i) => (
             <>
-              <tr class={i % 2 ? "tut" : "lecture"}>
+              <tr key="" className={i % 2 ? "tut" : "lecture"}>
                 <td>{exam.date}</td>
                 <td>{exam.name}</td>
               </tr>
