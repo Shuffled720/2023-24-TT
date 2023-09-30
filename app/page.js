@@ -40,7 +40,7 @@ export default function Home() {
         </div>
       </div>
       <h1 className="text-center ">Menu</h1>
-      <Image className="menu-img" src="/menu.png" width={500} height={500} />
+      <Image className="menu-img" src="/menu.jpg" width={500} height={500} />
     </div >
   )
 }

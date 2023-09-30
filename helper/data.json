@@ -12,14 +12,14 @@
                 "teacher": "(DOSA)"
             },
             {
-                "title": "L:EE 303(Probability)",
+                "title": "L:EE 303",
                 "type": "Lecture",
-                "teacher": ""
+                "teacher": "(Probability)"
             },
             {
-                "title": "L:EE 305(Gosh)",
+                "title": "L:EE 305",
                 "type": "Lecture",
-                "teacher": ""
+                "teacher": "(Gosh)"
             }
         ],
         "Tuesday": [
@@ -36,12 +36,12 @@
             {
                 "title": "L:EE 311",
                 "type": "Lecture",
-                "teacher": "(water-bottle)"
+                "teacher": "(Water-Bottle)"
             },
             {
-                "title": "L:EE 305(Gosh)",
+                "title": "L:EE 305",
                 "type": "Lecture",
-                "teacher": ""
+                "teacher": "(Gosh)"
             }
         ],
         "Wednesday": [
@@ -56,9 +56,9 @@
                 "teacher": "(DOSA)"
             },
             {
-                "title": "L:EE 303(Probability)",
+                "title": "L:EE 303",
                 "type": "Lecture",
-                "teacher": ""
+                "teacher": "(Probability)"
             },
             {
                 "title": "",
@@ -75,17 +75,17 @@
             {
                 "title": "T:EE 311",
                 "type": "Tutorial",
-                "teacher": "(water-bottle)"
+                "teacher": "(Water-Bottle)"
             },
             {
-                "title": "T:EE 303(Probability)",
+                "title": "T:EE 303",
                 "type": "Tutorial",
-                "teacher": ""
+                "teacher": "(Probability)"
             },
             {
-                "title": "T:EE 305(Gosh)",
+                "title": "T:EE 305",
                 "type": "Tutorial",
-                "teacher": ""
+                "teacher": "(Gosh)"
             }
         ],
         "Friday": [
@@ -102,7 +102,7 @@
             {
                 "title": "L:EE 311",
                 "type": "Lecture",
-                "teacher": "(water-bottle)"
+                "teacher": "(Water-Bottle)"
             },
             {
                 "title": "T:EE 307",
