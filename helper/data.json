@@ -110,31 +110,5 @@
                 "teacher": "(Sumit)"
             }
         ]
-    },
-    "msett": [
-        {
-            "name": "EE 307 (Sumit Chotu)",
-            "date": "Saturday, 16-09-2022"
-        },
-        {
-            "name": "EE 301N(DOSA)",
-            "date": "Monday, 18-09-2022"
-        },
-        {
-            "name": "EE 311(water-bottle)",
-            "date": "Wednessday, 20-09-2022"
-        },
-        {
-            "name": "EE 305(Gosh)",
-            "date": "Thursday, 21-09-2022"
-        },
-        {
-            "name": "EE 309(Vijay)",
-            "date": "Monday, 25-09-2022"
-        },
-        {
-            "name": "EE 303(Probability)",
-            "date": "Tuesday, 26-09-2022"
-        }
-    ]
+    }
 }
