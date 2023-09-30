@@ -109,28 +109,6 @@
                 "type": "Tutorial",
                 "teacher": "(Sumit)"
             }
-        ],
-        "Saturday": [
-            {
-                "title": "L:EE 309",
-                "type": "Lecture",
-                "teacher": "(Vijay)"
-            },
-            {
-                "title": "L:EE 301N",
-                "type": "Lecture",
-                "teacher": "(DOSA)"
-            },
-            {
-                "title": "L:EE 303",
-                "type": "Lecture",
-                "teacher": "(Probability)"
-            },
-            {
-                "title": "L:EE 305",
-                "type": "Lecture",
-                "teacher": "(Gosh)"
-            }
         ]
     }
 }

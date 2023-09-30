@@ -4,27 +4,22 @@ import data from "../helper/data"
 export default function Home() {
   const today = new Date().toLocaleDateString();
   const day = new Date().toLocaleDateString('en-us', { weekday: 'long' });
-  // const day = "Monday";
 
-  // const todayData = data?.tt?.day ? data.tt.day : 'Tuesday';
   const todayData = data.tt[day]
 
 
 
   return (
-    // <div className="h-screen bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500">
     <div className="h-screen bg-red-50">
       <h1 className="text-center text-3xl py-5">Electrical Time Table</h1>
-
+      <hr />
       <section id="todays">
         <div className="px-4">
-          {/* <h3 className="text-left text-xl  ">Today's TT</h3> */}
           <h3 className="text-left text-xl"  > Today : {today} - {day}</h3>
           {todayData ?
             <>
               <br />
               < ul >
-
                 <li><p className="text-lg">08:30-09:25----{todayData ? todayData[0].title : ""}</p></li>
                 <li><p className="text-lg">09:30-10:25----{todayData ? todayData[1].title : ""}</p></li>
                 <li><p className="text-lg">10:30-11:25----{todayData ? todayData[2].title : ""}</p></li>
@@ -36,7 +31,6 @@ export default function Home() {
             <></>
           }
         </div>
-
       </section >
       <section id="full-view">
         <div>
@@ -63,7 +57,6 @@ export default function Home() {
                   </tr>
                 </>
               ))}
-
             </tbody>
           </table>
           <div className='px-4'>

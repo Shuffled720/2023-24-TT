@@ -1,7 +1,4 @@
 import './globals.css'
-
-
-
 export const metadata = {
   title: 'EE Time Table',
   description: 'Electrical is very important',
