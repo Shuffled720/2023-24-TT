@@ -28,10 +28,10 @@ export default function Home() {
             <>
               <br />
               < ul >
-                <li><p className="text-lg">08:30-09:25----{todayData ? todayData[0].title : ""}</p></li>
-                <li><p className="text-lg">09:30-10:25----{todayData ? todayData[1].title : ""}</p></li>
-                <li><p className="text-lg">10:30-11:25----{todayData ? todayData[2].title : ""}</p></li>
-                <li><p className="text-lg">11:30-12:25----{todayData ? todayData[3].title : ""}</p></li>
+                <li><p className="text-lg">08:30-09:25----{todayData ? todayData[0].title : ""}{todayData[0].teacher}</p></li>
+                <li><p className="text-lg">09:30-10:25----{todayData ? todayData[1].title : ""}{todayData[1].teacher}</p></li>
+                <li><p className="text-lg">10:30-11:25----{todayData ? todayData[2].title : ""}{todayData[2].teacher}</p></li>
+                <li><p className="text-lg">11:30-12:25----{todayData ? todayData[3].title : ""}{todayData[3].teacher}</p></li>
               </ul>
               <br />
             </>
