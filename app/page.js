@@ -1,11 +1,19 @@
-
+"use client"
+import { useEffect ,useState} from "react";
 import Image from "next/image"
 import data from "../helper/data"
 export default function Home() {
-  const today = new Date().toLocaleDateString();
-  const day = new Date().toLocaleDateString('en-us', { weekday: 'long' });
+  // var today = new Date().toLocaleDateString();
+  // var day = new Date().toLocaleDateString('en-us', { weekday: 'long' });
+  const [today, setToday] = useState("");
+  const [day, setDay] = useState("");
+  useEffect(() => {
+    setToday(new Date().toLocaleDateString());
+    setDay(new Date().toLocaleDateString('en-us', { weekday: 'long' }));
+  })
 
-  const todayData = data.tt[day]
+
+  var todayData = data.tt[day]
 
 
 
