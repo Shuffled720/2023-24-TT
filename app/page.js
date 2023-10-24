@@ -11,6 +11,7 @@ export default function Home() {
     <main>
       <div className="h-screen bg-red-50">
         <Header />
+        <hr />
         <Links />
         <hr />
         <TodaySchedule />
