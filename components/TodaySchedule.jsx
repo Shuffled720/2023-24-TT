@@ -35,6 +35,13 @@ const TodaySchedule = () => {
                         :
                         <></>
                     }
+                    <hr />
+                    <h3 className="text-left text-xl">LRC time:</h3>
+                    <ul>
+                        <li> <p className="text-lg"><strong>Monday to Friday:</strong> 9:00 a.m. to 11:00 p.m.</p></li>
+                        <li> <p className="text-lg"><strong>Saturdays:</strong> 9:00 a.m. to 6:30 p.m.</p></li>
+                        <li> <p className="text-lg"><strong>Sundays:</strong> Closed</p></li>
+                    </ul>
                 </div>
             </section >
         </>
