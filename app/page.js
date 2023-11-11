@@ -4,6 +4,7 @@ import FullWeekTT from "@/components/FullWeekTT";
 import Menu from "@/components/Menu";
 import Links from "@/components/Links";
 import Footer from "@/components/Footer";
+import ExamTT from "@/components/ExamTT";
 export default function Home() {
 
 
@@ -14,7 +15,8 @@ export default function Home() {
         <hr />
         <Links />
         <hr />
-        <TodaySchedule />
+        {/* <TodaySchedule /> */}
+        <ExamTT />
         <FullWeekTT />
         <hr />
         <Menu />
