@@ -4,6 +4,7 @@ const ExamTT = () => {
     return (
         <>
             <h1 className=" text-2xl">ESE TT</h1>
+            <h1 className=" text-2xl">10:00 to 1:00</h1>
             <table className="table-fixed w-80 text-center my-5">
                 <thead>
                     <tr key="">
