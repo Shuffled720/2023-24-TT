@@ -46,17 +46,17 @@
         ],
         "Wednesday": [
             {
+                "title": "",
+                "type": "",
+                "teacher": ""
+            },
+            {
                 "title": "L: EE 306",
                 "type": "Lecture",
                 "teacher": ""
             },
             {
                 "title": "L: EE 304",
-                "type": "Lecture",
-                "teacher": ""
-            },
-            {
-                "title": "L:EE 303",
                 "type": "Lecture",
                 "teacher": ""
             },
