@@ -30,8 +30,8 @@ const FullWeekTT = () => {
                         </tbody>
                     </table>
                     <div className='px-4'>
-                        <h1>Thursday:E1 Batch: <span className='font-bold'>EEP: 351N</span></h1>
-                        <h1>Friday:E2 Batch: <span className='font-bold'>EEP: 351N</span></h1>
+                        <h1>Wednessday: <span className='font-bold'>P: EE 254 (E2) (3 hr)/ P: EE 256 (E1) (4 hr)</span></h1>
+                        <h1>Friday: <span className='font-bold'>P: EE 258 (E2)/ P: EE 254 (E1)</span></h1>
                     </div>
                 </div>
             </section>

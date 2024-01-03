@@ -13,13 +13,13 @@ export default function Home() {
       <div className="h-screen bg-red-50">
         <Header />
         <hr />
-        <Links />
+        {/* <Links /> */}
         <hr />
         {/* <TodaySchedule /> */}
-        <ExamTT />
+        {/* <ExamTT /> */}
         <FullWeekTT />
         <hr />
-        <Menu />
+        {/* <Menu /> */}
         <Footer />
       </div >
     </main>

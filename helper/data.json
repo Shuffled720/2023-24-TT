@@ -2,63 +2,63 @@
     "tt": {
         "Monday": [
             {
-                "title": "L:EE 309",
-                "type": "Lecture",
-                "teacher": "(Vijay)"
+                "title": "",
+                "type": "",
+                "teacher": ""
             },
             {
-                "title": "L:EE 301N",
+                "title": "L: EE 302",
                 "type": "Lecture",
-                "teacher": "(DOSA)"
+                "teacher": ""
             },
             {
-                "title": "L:EE 303",
+                "title": "L: EE 304",
                 "type": "Lecture",
-                "teacher": "(Probability)"
+                "teacher": ""
             },
             {
-                "title": "L:EE 305",
+                "title": "L: EE 308",
                 "type": "Lecture",
-                "teacher": "(Gosh)"
+                "teacher": ""
             }
         ],
         "Tuesday": [
+            {
+                "title": "L: HS 302/ ES 302",
+                "type": "Lecture",
+                "teacher": ""
+            },
             {
                 "title": "",
                 "type": "",
                 "teacher": ""
             },
             {
-                "title": "L:EE 307",
+                "title": "L: EE 306",
                 "type": "Lecture",
-                "teacher": "(Sumit)"
+                "teacher": ""
             },
             {
-                "title": "L:EE 311",
+                "title": "L: EE 302",
                 "type": "Lecture",
-                "teacher": "(Buzz-Lightyear)"
-            },
-            {
-                "title": "L:EE 305",
-                "type": "Lecture",
-                "teacher": "(Gosh)"
+                "teacher": ""
             }
         ],
         "Wednesday": [
             {
-                "title": "L:EE 309",
+                "title": "L: EE 306",
                 "type": "Lecture",
-                "teacher": "(Vijay)"
+                "teacher": ""
             },
             {
-                "title": "L:EE 301N",
+                "title": "L: EE 304",
                 "type": "Lecture",
-                "teacher": "(DOSA)"
+                "teacher": ""
             },
             {
                 "title": "L:EE 303",
                 "type": "Lecture",
-                "teacher": "(Probability)"
+                "teacher": ""
             },
             {
                 "title": "",
@@ -68,55 +68,69 @@
         ],
         "Thursday": [
             {
-                "title": "L:EE 307",
+                "title": "L: HS 302/ ES 302",
                 "type": "Lecture",
-                "teacher": "(Sumit)"
+                "teacher": ""
             },
             {
-                "title": "T:EE 311",
-                "type": "Tutorial",
-                "teacher": "(Buzz-Lightyear)"
+                "title": "L: EE 304",
+                "type": "Lecture",
+                "teacher": ""
             },
             {
-                "title": "T:EE 303",
+                "title": "T: EE 306",
                 "type": "Tutorial",
-                "teacher": "(Probability)"
+                "teacher": ""
             },
             {
-                "title": "T:EE 305",
-                "type": "Tutorial",
-                "teacher": "(Gosh)"
+                "title": "L: EE 308",
+                "type": "Lecture",
+                "teacher": ""
             }
         ],
         "Friday": [
             {
-                "title": "(12:30)T:EE 309",
-                "type": "Tutorial",
-                "teacher": "(Vijay)"
+                "title": "",
+                "type": "",
+                "teacher": ""
             },
             {
-                "title": "T:EE 301N",
+                "title": "T: EE 302",
                 "type": "Tutorial",
-                "teacher": "(DOSA)"
+                "teacher": ""
             },
             {
-                "title": "L:EE 311",
+                "title": "T: EE 308",
+                "type": "Tutorial",
+                "teacher": ""
+            },
+            {
+                "title": "T: EE 304",
+                "type": "Tutorial",
+                "teacher": ""
+            }
+        ],
+        "Saturday": [
+            {
+                "title": "L: HS 302/ ES 302",
                 "type": "Lecture",
-                "teacher": "(Buzz-Lightyear)"
+                "teacher": ""
             },
             {
-                "title": "T:EE 307",
-                "type": "Tutorial",
-                "teacher": "(Sumit)"
+                "title": "",
+                "type": "",
+                "teacher": ""
+            },
+            {
+                "title": "",
+                "type": "",
+                "teacher": ""
+            },
+            {
+                "title": "",
+                "type": "",
+                "teacher": ""
             }
         ]
-    },
-    "ese": {
-        "EE 301N": "22-11-23",
-        "EE 311": "23-11-23",
-        "EE 305": "24-11-23",
-        "EE 309": "25-11-23",
-        "EE 303": "29-11-23",
-        "EE 307": "30-11-23"
     }
 }
