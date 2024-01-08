@@ -17,11 +17,11 @@ const FullWeekTT = () => {
                         <tbody>
                             {Object.keys(data.tt).map((day, i) => (
                                 <>
-                                    <tr key={day.id}>
+                                    <tr key={i}>
                                         <td className='days-col'>{day}</td>
                                         {data.tt[day].map((lec, j) => (
                                             <>
-                                                <td className={lec.type == "Lecture" ? "lecture" : "tut"} ><p className="text-ellipsis overflow-hidden"><span className='font-bold'>{lec.title}</span><span>{lec.teacher}</span></p></td>
+                                                <td key={j} className={lec.type == "Lecture" ? "lecture" : "tut"} ><p className="text-ellipsis overflow-hidden"><span className='font-bold'>{lec.title}</span><span>{lec.teacher}</span></p></td>
                                             </>
                                         ))}
                                     </tr>
