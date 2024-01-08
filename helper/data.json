@@ -19,7 +19,7 @@
             {
                 "title": "L: EE 308",
                 "type": "Lecture",
-                "teacher": ""
+                "teacher": "Taklu"
             }
         ],
         "Tuesday": [
@@ -85,7 +85,7 @@
             {
                 "title": "L: EE 308",
                 "type": "Lecture",
-                "teacher": ""
+                "teacher": "Taklu"
             }
         ],
         "Friday": [
@@ -102,7 +102,7 @@
             {
                 "title": "T: EE 308",
                 "type": "Tutorial",
-                "teacher": ""
+                "teacher": "Taklu"
             },
             {
                 "title": "T: EE 304",
