@@ -9,12 +9,12 @@
             {
                 "title": "L: EE 302",
                 "type": "Lecture",
-                "teacher": ""
+                "teacher": "Controls"
             },
             {
                 "title": "L: EE 304",
                 "type": "Lecture",
-                "teacher": ""
+                "teacher": "DSP(Appinna)"
             },
             {
                 "title": "L: EE 308",
@@ -41,7 +41,7 @@
             {
                 "title": "L: EE 302",
                 "type": "Lecture",
-                "teacher": ""
+                "teacher": "Controls"
             }
         ],
         "Wednesday": [
@@ -58,7 +58,7 @@
             {
                 "title": "L: EE 304",
                 "type": "Lecture",
-                "teacher": ""
+                "teacher": "DSP(Appinna)"
             },
             {
                 "title": "",
@@ -75,7 +75,7 @@
             {
                 "title": "L: EE 304",
                 "type": "Lecture",
-                "teacher": ""
+                "teacher": "DSP(Appinna)"
             },
             {
                 "title": "T: EE 306",
@@ -97,7 +97,7 @@
             {
                 "title": "T: EE 302",
                 "type": "Tutorial",
-                "teacher": ""
+                "teacher": "Controls"
             },
             {
                 "title": "T: EE 308",
@@ -107,7 +107,7 @@
             {
                 "title": "T: EE 304",
                 "type": "Tutorial",
-                "teacher": ""
+                "teacher": "DSP(appinna)"
             }
         ],
         "Saturday": [
