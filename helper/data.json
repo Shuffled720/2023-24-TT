@@ -9,7 +9,7 @@
             {
                 "title": "L: EE 302",
                 "type": "Lecture",
-                "teacher": "Controls"
+                "teacher": "(Controls)"
             },
             {
                 "title": "L: EE 304",
@@ -19,7 +19,7 @@
             {
                 "title": "L: EE 308",
                 "type": "Lecture",
-                "teacher": "Taklu"
+                "teacher": "(Taklu)"
             }
         ],
         "Tuesday": [
@@ -36,12 +36,12 @@
             {
                 "title": "L: EE 306",
                 "type": "Lecture",
-                "teacher": "Digital Com"
+                "teacher": "(Black-Shaibal)"
             },
             {
                 "title": "L: EE 302",
                 "type": "Lecture",
-                "teacher": "Controls"
+                "teacher": "(Controls)"
             }
         ],
         "Wednesday": [
@@ -53,7 +53,7 @@
             {
                 "title": "L: EE 306",
                 "type": "Lecture",
-                "teacher": "Digital Com"
+                "teacher": "(Black-Shaibal)"
             },
             {
                 "title": "L: EE 304",
@@ -80,12 +80,12 @@
             {
                 "title": "T: EE 306",
                 "type": "Tutorial",
-                "teacher": "Digital Com"
+                "teacher": "(Black-Shaibal)"
             },
             {
                 "title": "L: EE 308",
                 "type": "Lecture",
-                "teacher": "Taklu"
+                "teacher": "(Taklu)"
             }
         ],
         "Friday": [
@@ -97,12 +97,12 @@
             {
                 "title": "T: EE 302",
                 "type": "Tutorial",
-                "teacher": "Controls"
+                "teacher": "(Controls)"
             },
             {
                 "title": "T: EE 308",
                 "type": "Tutorial",
-                "teacher": "Taklu"
+                "teacher": "(Taklu)"
             },
             {
                 "title": "T: EE 304",
