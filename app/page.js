@@ -10,7 +10,7 @@ export default function Home() {
 
   return (
     <main>
-      <div className="h-screen bg-red-50">
+      <div className=" bg-red-50">
         <Header />
         <hr />
         {/* <Links /> */}
@@ -19,7 +19,7 @@ export default function Home() {
         {/* <ExamTT /> */}
         <FullWeekTT />
         <hr />
-        {/* <Menu /> */}
+        <Menu />
         <Footer />
       </div >
     </main>
